@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6f5ec1c418c5080438cb1a4057a76b44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myBag: {fileID: 11400000, guid: 851e5627a2f8252468ff8d61bf50202c, type: 2}
+  - slotGrid: {instanceID: 0}
+  - emptySlot: {fileID: 3312934961819338098, guid: 429791075a4338c4b9453f8cae8389be,
+      type: 3}
+  - itemInformation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
